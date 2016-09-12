@@ -1,0 +1,15 @@
+{
+    "name": "dronca/fortune-algorithm",
+    "type": "project",
+    "require": {
+        "phpseclib/phpseclib": "^2.0",
+        "monolog/monolog": "^1.21"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alberto Bravi",
+            "email": "alberto.bravi@gmail.com"
+        }
+    ]
+}
