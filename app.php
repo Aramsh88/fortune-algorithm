@@ -1,7 +1,7 @@
 <?php
 
 require __DIR__ . '/vendor/autoload.php';
-require 'FortuneAlgorithm.php';
+require 'src/FortuneAlgorithm.php';
 
 use dronca\FortuneAlgorithm\FortuneAlgorithm;
 
