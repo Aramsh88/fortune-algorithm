@@ -1,5 +1,5 @@
 # fortune-algorithm
-A simple test for discover two factors of a prime number multiplication
+A simple test for discover two factors of a prime's number multiplication
 
 ### Setup project settings
 
