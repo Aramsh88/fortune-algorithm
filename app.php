@@ -1,9 +1,8 @@
 <?php
 
 require __DIR__ . '/vendor/autoload.php';
-require 'src/FortuneAlgorithm.php';
 
-use dronca\FortuneAlgorithm\FortuneAlgorithm;
+use Droncalonca\FortuneAlgorithm\Algorithm;
 
 
 
@@ -18,5 +17,5 @@ $iInputNumber = 4104330577; // 41047 * 99991
 
 
 
-$oFortuneAlgorithm = new FortuneAlgorithm($iInputNumber);
+$oFortuneAlgorithm = new Algorithm($iInputNumber);
 $oFortuneAlgorithm->find();
