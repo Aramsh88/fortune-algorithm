@@ -1,5 +1,5 @@
 {
-    "name": "droncalonca/fortune-algorithm",
+    "name": "albertobravi/fortune-algorithm",
     "type": "project",
     "require": {
         "phpseclib/phpseclib": "^2.0",
@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Droncalonca\\FortuneAlgorithm\\":"src/"
+            "Albertobravi\\FortuneAlgorithm\\":"src/"
         }
     },
     "license": "MIT",

@@ -1,10 +1,10 @@
-<?php namespace Droncalonca\FortuneAlgorithm;
+<?php namespace Albertobravi\FortuneAlgorithm;
 
 use Monolog\Logger as Monologger;
 use Monolog\Handler\StreamHandler;
 
 /**
- * @author Droncalonca
+ * @author Albertobravi
  */
 class Logger {
 

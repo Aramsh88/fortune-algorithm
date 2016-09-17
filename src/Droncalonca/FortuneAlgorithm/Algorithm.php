@@ -1,12 +1,12 @@
-<?php namespace Droncalonca\FortuneAlgorithm;
+<?php namespace Albertobravi\FortuneAlgorithm;
 
 use phpseclib\Math\BigInteger;
-use Droncalonca\FortuneAlgorithm\Logger;
+use Albertobravi\FortuneAlgorithm\Logger;
 
 /**
  * Description of fortuneAlgorithm
  *
- * @author Droncalonca
+ * @author Alberto Bravi
  */
 class Algorithm {
 

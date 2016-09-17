@@ -2,7 +2,7 @@
 
 require __DIR__ . '/vendor/autoload.php';
 
-use Droncalonca\FortuneAlgorithm\Algorithm;
+use Albertobravi\FortuneAlgorithm\Algorithm;
 
 
 
